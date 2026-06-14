@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "219387760314",
+    "project_id": "fittext-ai",
+    "storage_bucket": "fittext-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219387760314:android:64adca3cf242bb2662bc83",
+        "android_client_info": {
+          "package_name": "com.fittext.fittext_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219387760314-7054fl46kb1tm2fkarhpf1e7um2ee6p7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fittext.fittext_ai",
+            "certificate_hash": "f60444691d2b11c4ac43751892d25b29e68c57bb"
+          }
+        },
+        {
+          "client_id": "219387760314-jvi2k8gufoj8b9j8ec9og49e0ukhopvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKG5jjuAV-za72vwX6MDEcXnee_NpdKFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219387760314-jvi2k8gufoj8b9j8ec9og49e0ukhopvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
